@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Home
 
 Stanley Lima is a student on the doctoral programme in information science and technology in the Department of Informatics Engineering, University of Coimbra, as well as a member of the Information Systems Research Group. His PhD is funded by the National Program of Space Activities (PNAE) 2012–2021, in cooperation with the Brazilian Space Agency. While studying for his master's degree in software engineering, he worked at the General Headquarters of the Brazilian Army in Brasilia on the CORTEX project (middleware for communication between armoured cars). In 2015, after completing his master's degree, Stanley worked in the Department of Computer Science at Technische Universität Dresden, Germany, with a focus on microservices architecture, DevOps, cloud-native application architecture, and related technologies.
 
