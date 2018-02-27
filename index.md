@@ -1,38 +1,17 @@
-## Home
-
-Stanley Lima is a student on the doctoral programme in information science and technology in the Department of Informatics Engineering, University of Coimbra, as well as a member of the Information Systems Research Group. His PhD is funded by the National Program of Space Activities (PNAE) 2012–2021, in cooperation with the Brazilian Space Agency. While studying for his master's degree in software engineering, he worked at the General Headquarters of the Brazilian Army in Brasilia on the CORTEX project (middleware for communication between armoured cars). In 2015, after completing his master's degree, Stanley worked in the Department of Computer Science at Technische Universität Dresden, Germany, with a focus on microservices architecture, DevOps, cloud-native application architecture, and related technologies.
+## Stanley Lima
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![rsz_1rsz_1foto_git](https://user-images.githubusercontent.com/7977251/36739418-c02efb92-1bd7-11e8-9c04-52f9c6cdf2c8.jpg) Stanley is a student on the doctoral programme in information science and technology in the Department of Informatics Engineering, University of Coimbra, as well as a member of the Information Systems Research Group. His PhD is funded by the National Program of Space Activities (PNAE) 2012–2021, in cooperation with the Brazilian Space Agency. While studying for his master's degree in software engineering, he worked at the General Headquarters of the Brazilian Army in Brasilia on the CORTEX project (middleware for communication between armoured cars). In 2015, after completing his master's degree, Stanley worked in the Department of Computer Science at Technische Universität Dresden, Germany, with a focus on microservices architecture, DevOps, cloud-native application architecture, and related technologies.
+![readme](https://user-images.githubusercontent.com/7977251/28595712-f7ecce92-718c-11e7-89ea-5d5ee990e81a.png)
 
-### Markdown
+### ABSTRACT
+In recent years, there has been a movement towards the decomposition of monolithic systems into distributed applications comprised of small components, called microservices. These are designed to be independently deployed and to provide well defined functionality, accessible through standard Application Programming Interfaces and lightweight protocols. The creation of smaller services greatly simplifies their creation and promotes the reuse of components. One of the characteristics of microservices is their interdependence, cohesion and decoupling, since all the architecture is based on their mutual invocation. 
+  
+For the sake of performance, providers are compelled to ensure service responsiveness at the expense of consistency. Hence, microservices will often ensure low latency and high availability, but low levels of consistency. 
+	\par In this context, the difficulty of accessing coherent data arises, as customers may see outdated or even divergent data. To avoid this problem, the system needs to provide a clear definition of its level of consistency, as well as conflict resolution primitives, if possible. 
+  
+In this thesis, we aim to find an explicit and known balance between performance and consistency, in systems composed by a choreography of microservices. More precisely, we aim to determine the level of consistency of the resulting system; detect violations to the consistency level expected by the application; and resort to primitives (such as distributed transactions and compensatory actions) to ensure that a given consistency level is achieved.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stanley-Lima/Stanley-Lima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: stanleylima@dei.uc.pt/  stanley.lima@mailbox.tu-dresden.de / stanley.ramalho@redes.unb.br
